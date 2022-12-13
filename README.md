@@ -1,4 +1,4 @@
-# About Me 🙋
+# About Me 🐌
 
 Hi there! I'm Rafael Alamanac, a software engineer and professional procrastinator 🤓. I've been coding for over 10 years and still haven't figured out what I want to be when I grow up. 😃
 
