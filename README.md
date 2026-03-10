@@ -37,11 +37,11 @@ I have more than ten years of experience developing software across web technolo
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=rafama9&show_icons=true&theme=transparent&hide_border=true" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=rjalamanac&show_icons=true&theme=transparent&hide_border=true" />
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafama9&layout=compact&theme=transparent&hide_border=true" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rjalamanac&layout=compact&theme=transparent&hide_border=true" />
 
-<img width="48%" src="https://streak-stats.demolab.com/?user=rafama9&theme=transparent&hide_border=true" />
+<img width="48%" src="https://streak-stats.demolab.com/?user=rjalamanac&theme=transparent&hide_border=true" />
 
 </div>
 
