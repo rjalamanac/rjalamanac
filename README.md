@@ -1,20 +1,68 @@
-# About Me 🐌
+# Rafael Alamañac
 
-Hi there! I'm Rafael Alamanac, a software engineer and professional procrastinator 🤓. I've been coding for over 10 years and still haven't figured out what I want to be when I grow up. 😃
+Software Engineer and Educator
 
-## Skills 💪
+I have more than ten years of experience developing software across web technologies, backend systems, and educational platforms. I currently focus on building tools that improve learning, enable experimentation, and help students understand computing more intuitively. I enjoy well‑structured code, clear architecture, and practical solutions.
 
-- Proficient in C#, JavaScript, Node and Java ✨
-- Experience with web development, machine learning, and data analysis 🔬
-- Familiarity with databases and SQL 🗄️
-- Knowledge of agile software development methodologies 🧑‍💼
+---
 
-## Education 🎓
+## About Me
 
-- Bachelor of Science in Computer Science and Mathematics from the University of La Rioja, Logroño (2012-2017) 📚
+- B.Sc. in Computer Science and Mathematics, University of La Rioja (2012–2017)  
+- Software engineer with experience in both industry and education  
+- Strong interest in software craftsmanship, clean architecture, and educational technology  
+- Always learning, always refining
 
-## Projects 🚀
+---
 
-- **Educational APPs**: mostly apps used for education, check them out. 🛍️💻
+## Technical Skills
 
+### Languages
+- C#  
+- Java  
+- JavaScript  
+- TypeScript  
+- SQL
 
+### Technologies & Tools
+- Backend: .NET, Node.js, Express, Laravel  
+- Frontend: Angular, HTML5, CSS  
+- Databases: SQL Server, PostgreSQL, SQLite, MongoDB  
+- Development Workflow: Git, GitHub Actions, Agile methodologies  
+- Other: Basic machine learning, educational app development
+
+---
+
+## GitHub Activity
+
+<div align="center">
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=rafama9&show_icons=true&theme=transparent&hide_border=true" />
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafama9&layout=compact&theme=transparent&hide_border=true" />
+
+<img width="48%" src="https://streak-stats.demolab.com/?user=rafama9&theme=transparent&hide_border=true" />
+
+</div>
+
+---
+
+## Selected Projects
+
+### Educational Applications
+A collection of applications designed to support students in programming, logic, and problem-solving. These tools are built with the goal of improving engagement and comprehension in the classroom.
+
+### ML Experiments
+Small experiments exploring data processing, model training, and visualization.
+
+### Web Tools
+Utility tools created for teaching, productivity, or experimentation. Most are lightweight, browser-based, and focused on solving a single problem cleanly.
+
+You can find all my repositories here:  
+https://github.com/rjalamanac
+
+---
+
+## Contact
+
+If you'd like to discuss software, education, or potential collaborations, feel free to reach out.
