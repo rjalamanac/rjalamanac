@@ -39,10 +39,3 @@ Small experiments exploring data processing, model training, and visualization.
 
 ### Web Tools
 Utility tools created for teaching, productivity, or experimentation. Most are lightweight, browser-based, and focused on solving a single problem cleanly.
-
-You can find all my repositories here:  
-https://github.com/rjalamanac
-
-## Contact
-
-If you'd like to discuss software, education, or potential collaborations, feel free to reach out.
