@@ -17,8 +17,6 @@ I have more than ten years of experience developing software across web technolo
 
 <img width="48%" src="https://github-readme-stats-smoky-five-60.vercel.app/api?username=rjalamanac&show_icons=true&theme=transparent&hide_border=true" />
 
-<img width="48%" src="https://github-readme-stats-smoky-five-60.vercel.app/api/top-langs/username=rjalamanac&layout=compact&theme=transparent&hide_border=true" />
-
 <img width="48%" src="https://streak-stats.demolab.com?user=rjalamanac&theme=transparent&hide_border=true" />
 
 <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rjalamanac&theme=transparent" />
