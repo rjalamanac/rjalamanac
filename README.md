@@ -11,29 +11,13 @@ I have more than ten years of experience developing software across web technolo
 - Strong interest in software craftsmanship, clean architecture, and educational technology  
 - Always learning, always refining
 
-## Technical Skills
-
-### Languages
-- C#  
-- Java  
-- JavaScript  
-- TypeScript  
-- SQL
-
-### Technologies & Tools
-- Backend: .NET, Node.js, Express, Laravel  
-- Frontend: Angular, HTML5, CSS  
-- Databases: SQL Server, PostgreSQL, SQLite, MongoDB  
-- Development Workflow: Git, GitHub Actions, Agile methodologies  
-- Other: Basic machine learning, educational app development
-
 ## GitHub Activity
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=rjalamanac&show_icons=true&theme=transparent&hide_border=true" />
+<img width="48%" src="github-readme-stats-i0zl5umi8-rjalamanacs-projects.vercel.app/api?username=rjalamanac&show_icons=true&theme=transparent&hide_border=true" />
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rjalamanac&layout=compact&theme=transparent&hide_border=true" />
+<img width="48%" src="github-readme-stats-i0zl5umi8-rjalamanacs-projects.vercel.app/api/top-langs/?username=rjalamanac&layout=compact&theme=transparent&hide_border=true" />
 
 <img width="48%" src="https://streak-stats.demolab.com?user=rjalamanac&theme=transparent&hide_border=true" />
 
@@ -43,7 +27,7 @@ I have more than ten years of experience developing software across web technolo
 
 <img width="96%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rjalamanac&theme=transparent" />
 
-<img width="96%" src="https://github-contributor-stats.vercel.app/api?username=rjalamanac&limit=10&theme=transparent&hide_border=true" />
+<img width="96%" src="github-readme-stats-i0zl5umi8-rjalamanacs-projects.vercel.app/api?username=rjalamanac&limit=10&theme=transparent&hide_border=true" />
 
 </div>
 
